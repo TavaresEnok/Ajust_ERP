@@ -18,7 +18,7 @@
     "@nestjs/platform-express": "^11.1.18",
     "@nestjs/platform-socket.io": "^11.1.18",
     "@nestjs/websockets": "^11.1.18",
-    "@prisma/client": "^6.2.1",
+    "@prisma/client": "^7.8.0",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.7",
     "express": "^4.21.2",
